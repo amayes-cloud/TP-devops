@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Message modifie depuis main
+=======
+Message modifie depuis feature
+>>>>>>> feature/login
